@@ -99,3 +99,4 @@ Here you’ll find my portfolio projects, dashboard work, data analysis practice
 ## Contribution snake
 
 ![snake gif](https://raw.githubusercontent.com/Zhrasa/Zhrasa/output/snake.svg)
+ 
