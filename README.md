@@ -12,13 +12,20 @@ Welcome to my corner of GitHub! I'm a developer who enjoys building things, lear
 ## My most skilled Languages I know:
 
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Qlik-009845?style=flat-square&logo=qlik&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/DAX-742774?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-4B5563?style=flat-square&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Modelling-0F172A?style=flat-square&logo=database&logoColor=white">
+  <img src="https://img.shields.io/badge/Business%20Intelligence-2563EB?style=flat-square&logo=googleanalytics&logoColor=white">
   <img src="https://img.shields.io/badge/Git-31071c?style=flat-square&logo=git&logoColor=white">
+</p>
 </div>
 
 
