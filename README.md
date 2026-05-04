@@ -1,7 +1,12 @@
 # Hi there, I'm Zahra Saboorian 👋
 
-Welcome to my corner of GitHub! I'm a developer who enjoys building things, learning new tools, and turning ideas into working software.
-<img align="right" width="380" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
+Welcome to my GitHub! I’m a Data Analyst and Business Intelligence Analyst with 7+ years of experience turning complex data into clear, practical insights.
+
+I enjoy working with SQL, Python, Power BI, Tableau, Excel, and DAX to build dashboards, automate reporting, improve data quality, and help businesses make faster, more confident decisions.
+
+My work focuses on transforming raw data into meaningful stories through KPI dashboards, ETL pipelines, data modelling, process analysis, and business intelligence reporting. I’m especially interested in projects that connect technical analysis with real business impact.
+
+Here you’ll find my portfolio projects, dashboard work, data analysis practice, and examples of how I use data to solve problems and support decision-making.<img align="right" width="380" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 ## About me
 
 - 🔭 Always working on something - exploring projects across the stack
