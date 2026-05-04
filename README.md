@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/rainbow.gif" alt="Rainbow Logo" width="100%" />
+</p>
 # Hi there, I'm Zahra Saboorian 👋
 
 Welcome to my corner of GitHub! I'm a developer who enjoys building things, learning new tools, and turning ideas into working software.
