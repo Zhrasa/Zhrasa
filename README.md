@@ -1,7 +1,7 @@
 # Hi there, I'm Zahra Saboorian 👋
 
 Welcome to my corner of GitHub! I'm a developer who enjoys building things, learning new tools, and turning ideas into working software.
-
+<img align="right" width="380" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e">
 ## About me
 
 - 🔭 Always working on something - exploring projects across the stack
