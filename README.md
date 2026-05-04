@@ -91,13 +91,6 @@ Welcome to my corner of GitHub! I'm a developer who enjoys building things, lear
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 </p>
-## My GitHub stats
-
-![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhrasa&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhrasa&layout=compact&theme=default&hide_border=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=Zhrasa&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Contribution snake
 
