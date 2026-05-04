@@ -15,7 +15,6 @@
   <a href="https://linkedin.com/in/zahra-saboorian">
     <img src="https://img.shields.io/badge/LinkedIn-Zahra%20Saboorian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Zhrasa&style=for-the-badge&color=7C3AED" />
 </p>
 
 <br />
