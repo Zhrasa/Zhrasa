@@ -10,7 +10,6 @@ Welcome to my corner of GitHub! I'm a developer who enjoys building things, lear
 - 📫 Find me here on GitHub: [@Zhrasa](https://github.com/Zhrasa)
 
 ## My most skilled Languages I know:
-
 <div>
   <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
