@@ -65,9 +65,11 @@ I’m also exploring **self-hosted AI workflows** for analytics projects — inc
     </td>
   </tr>
 </table>
-
 ---
 
+![snake gif](https://raw.githubusercontent.com/Zhrasa/Zhrasa/output/snake.svg)
+ 
+---
 ## 🧠 Core Skill Stack
 
 <p align="center">
@@ -174,6 +176,3 @@ flowchart LR
     H --> I[RAG / Local LLMs]
     I --> F
 ```
-
-![snake gif](https://raw.githubusercontent.com/Zhrasa/Zhrasa/output/snake.svg)
- 
