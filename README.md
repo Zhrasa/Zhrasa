@@ -1,5 +1,4 @@
 <!-- Profile README for Zhrasa -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:7C3AED,100:DB2777&text=Zahra%20Saboorian&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Analyst%20%7C%20AI-Augmented%20Analytics&descAlignY=58&descSize=18" />
 
 <p align="center">
@@ -16,9 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Zahra%20Saboorian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<br />
-
 <img align="right" width="360" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" />
 
 ## Hi, I'm Zahra 👋
