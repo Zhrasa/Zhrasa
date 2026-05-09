@@ -29,6 +29,9 @@ I’m also exploring **self-hosted AI workflows** for analytics projects — inc
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/Zhrasa/Zhrasa/output/snake.svg)
+---
+
 ## 🚀 What I Do
 
 <table>
@@ -65,9 +68,7 @@ I’m also exploring **self-hosted AI workflows** for analytics projects — inc
     </td>
   </tr>
 </table>
----
 
-![snake gif](https://raw.githubusercontent.com/Zhrasa/Zhrasa/output/snake.svg)
  
 ---
 ## 🧠 Core Skill Stack
