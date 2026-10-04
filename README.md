@@ -74,7 +74,7 @@ I’m also exploring **self-hosted AI workflows** for analytics projects — inc
 ## 🧠 Core Skill Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,docker,aws,vscode,php" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,docker,aws,vscode,php,go" />
 </p>
 
 ### 📊 Data Analysis & BI
@@ -113,7 +113,7 @@ I’m also exploring **self-hosted AI workflows** for analytics projects — inc
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/DAX-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 </p>
 
